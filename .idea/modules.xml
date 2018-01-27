@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/dotfiles/mine/android/FileList/FileList.iml" filepath="$USER_HOME$/dotfiles/mine/android/FileList/FileList.iml" />
-      <module fileurl="file://$USER_HOME$/dotfiles/mine/android/FileList/app/app.iml" filepath="$USER_HOME$/dotfiles/mine/android/FileList/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/dotfiles/mine/android/BjtuAssistant/BjtuAssistant.iml" filepath="$USER_HOME$/dotfiles/mine/android/BjtuAssistant/BjtuAssistant.iml" />
+      <module fileurl="file://$USER_HOME$/dotfiles/mine/android/BjtuAssistant/app/app.iml" filepath="$USER_HOME$/dotfiles/mine/android/BjtuAssistant/app/app.iml" />
     </modules>
   </component>
 </project>
