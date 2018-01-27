@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/dotfiles/mine/android/FileList/FileList.iml" filepath="$USER_HOME$/dotfiles/mine/android/FileList/FileList.iml" />
+      <module fileurl="file://$USER_HOME$/dotfiles/mine/android/FileList/app/app.iml" filepath="$USER_HOME$/dotfiles/mine/android/FileList/app/app.iml" />
+    </modules>
+  </component>
+</project>
